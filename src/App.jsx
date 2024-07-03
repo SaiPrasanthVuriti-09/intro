@@ -31,8 +31,8 @@ const siteProps = {
   instagram: "Sai_Prasanth_Vuriti",
   linkedIn: "",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
